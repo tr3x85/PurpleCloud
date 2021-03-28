@@ -10,7 +10,7 @@ client_secret = ""
 tenant_id = ""
 
 # Generic info
-location = "West US"
+location = "Southeast Asia"
 
 resource_group_name = "JuliaRT"
 
