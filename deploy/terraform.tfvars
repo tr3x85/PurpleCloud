@@ -12,7 +12,7 @@ tenant_id = ""
 # Generic info
 location = "Southeast Asia"
 
-resource_group_name = "JuliaRT"
+resource_group_name = "CsgRT"
 
 environment_name = "devops1"
 
